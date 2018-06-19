@@ -1,0 +1,2 @@
+some new words >>./newfile.txt
+echo again
